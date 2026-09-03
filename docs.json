@@ -126,7 +126,8 @@
             "pages": [
               "reference/permissions",
               "reference/environment-variables",
-              "reference/glossary"
+              "reference/glossary",
+              "reference/marektest"
             ]
           }
         ]
